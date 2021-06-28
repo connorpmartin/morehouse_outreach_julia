@@ -4,6 +4,8 @@ Navigate to https://morehouse-outreach.illumidesk.com/
 If you have a GitHub account linked to your email address, click "Continue with GitHub"
 Otherwise, click "Sign Up"
 Enter in your main email address and an arbitrary username and password.
-Log in. You should see a folder called "morehouse_outreach_julia"
-Navigate to that folder and into a folder called "src,"
+Log in. 
+Navigate to 
+https://morehouse-outreach.illumidesk.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fconnorpmartin%2Fmorehouse_outreach_julia&urlpath=tree%2Fmorehouse_outreach_julia%2F&branch=main
+Navigate into the "src" folder
 and click on "julia_introduction.ipynb" to open your first module.
